@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/drawable-v24/btn_background1.xml" value="0.2435" />
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2435" />
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/drawable/btn_backgorund.xml" value="0.2435" />
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/drawable/btn_background.xml" value="0.2435" />
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/drawable/default_pager_dot.xml" value="0.2545" />
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.2435" />
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/drawable/selected_pager_dot.xml" value="0.2545" />
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/drawable/tab_pager_selector.xml" value="0.2555" />
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/layout/dots.xml" value="0.8" />
+        <entry key="..\:/Users/ucas/Desktop/SliderImagesHw1/app/src/main/res/layout/item.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.14225941422594143" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
